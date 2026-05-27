@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "metricsferify",
+        "uuid": 21149564,
+        "checksum": "a7ycra"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "production"
+    }
+}
